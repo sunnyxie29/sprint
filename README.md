@@ -1,6 +1,6 @@
-｜ Name | Github |
-|---|---|---|
-| Sunny Xie | sunnyxie29 |
+| Name | Github |
+|---|---|
+| Sunny | sunnyxie29 |
 | Thomas Draghi | umassmilker|
 | Mark Kulmizev | mkulmizev |
 
