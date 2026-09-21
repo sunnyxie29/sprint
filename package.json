@@ -1,5 +1,5 @@
 {
-  "name": "Dining Hall App",
+  "name": "dining-hall-app",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
@@ -7,5 +7,18 @@
   },
   "dependencies": {
     "express": "^5.2.1"
-  }
+  },
+  "description": "| Name | Github | |---|---| | Sunny Xie | sunnyxie29 | | Thomas Draghi | umassmilker| | Mark Kulmizev | mkulmizev |",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunnyxie29/sprint.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunnyxie29/sprint/issues"
+  },
+  "homepage": "https://github.com/sunnyxie29/sprint#readme"
 }
