@@ -1,9 +1,8 @@
-Members:
-Sunny Xie sunnyxie29
-
-Thomas Draghi umassmilker
-
-Mark Kulmizev mkulmizev
+｜ Name | Github |
+|---|---|---|
+| Sunny Xie | sunnyxie29 |
+| Thomas Draghi | umassmilker|
+| Mark Kulmizev | mkulmizev |
 
 Working Agreement:
 
