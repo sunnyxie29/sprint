@@ -16,11 +16,13 @@ app.get("/", (req, res) => {
 
 app.get("/menu", (req, res) => {
   res.send("Today's Dining Hall Menu");
+});
+
 app.get("/halls", (req, res) => {
   res.send(`
     <h1>Dining Halls</h1>
     <ul>
-      ${dining_halls.map(hall => `<li>${hall.title}</li>`).join("")}
+      ${dining_halls.map((hall) => `<li>${hall.title}</li>`).join("")}
     </ul>
   `);
 });
