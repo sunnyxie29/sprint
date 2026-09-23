@@ -14,6 +14,8 @@ app.get("/", (req, res) => {
   res.send("Welcome to our dining hall tracker.");
 });
 
+app.get("/menu", (req, res) => {
+  res.send("Today's Dining Hall Menu");
 app.get("/halls", (req, res) => {
   res.send(`
     <h1>Dining Halls</h1>
